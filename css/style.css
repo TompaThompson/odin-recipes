@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dongle:wght@300&family=Oswald:wght@300&display=swap');
 body {
   background-color: #C8D6E0;
   font-family: 'Dongle', sans-serif;
@@ -9,7 +10,9 @@ body {
   padding: 50px;
   background-color: #939466
 }
-
+.swe {
+  font-family: 'Oswald', sans-serif;
+}
 h1 {
   font-size: 70px;
   font-weight: bolder;
