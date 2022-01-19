@@ -1,22 +1,42 @@
-.intro {
-  background-color: red;
-  color: white;
-  font-size: 32px;
-  font-weight: bold;
-  text-align: center;
+body {
+  background-color: #C8D6E0;
+  font-family: 'Dongle', sans-serif;
+  font-size: 28px;
+}
+.main {
+  width: 500px;
+  margin: 20px auto;
+  padding: 50px;
+  background-color: #939466
 }
 
-/* div`: a red background, white text, a font size of 32px, center aligned,
-  and bold */
-  ----------------------------------------------------------------
-  /* Exercise 2
-  * **All odd numbered elements**: a light red/pink background, and a list of
-      fonts containing `Verdana` and `DejaVu Sans` with `sans-serif` as a fallback
-  * **The second element**: blue text and a font size of 36px
-  * **The third element**: in addition to the styles for all odd numbered
-      elements, add a font size of 24px
-  * **The fourth element**: a light green background, a font size of 24px, and bold */
+h1 {
+  font-size: 70px;
+  font-weight: bolder;
+  text-align: center;
+  font-family: 'Bebas Neue', cursive;
+}
 
-  p.odd {
-    background-color: rgb(238, 131, 165);
-  }
+h2 {
+  font-size: 48px;
+  font-weight: bold;
+  font-family: 'Bebas Neue', cursive;
+}
+
+a:link {
+  text-decoration: none;
+  color: #C8D6E0;
+}
+
+a:visited {
+  color: #946E6D;
+}
+
+.intro h3{
+  color: #946E6D;
+  font-size: 48px;
+}
+
+.intro p {
+  color: #C8D6E0;
+}
