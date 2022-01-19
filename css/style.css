@@ -8,7 +8,7 @@ body {
   width: 500px;
   margin: 20px auto;
   padding: 50px;
-  background-color: #939466
+  background-color: #DFE0B0;
 }
 .swe {
   font-family: 'Oswald', sans-serif;
@@ -35,11 +35,15 @@ a:visited {
   color: #946E6D;
 }
 
+img {
+  width: 500px;
+}
+
 .intro h3{
   color: #946E6D;
   font-size: 48px;
 }
 
 .intro p {
-  color: #C8D6E0;
+  color: red;
 }
